@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @payamsaremi
-- 👀 I’m interested in Web, Blockchain and Generative Art
-- 🌱 I’m currently learning javascript and solidity
+- 👀 I’m interested in Web, Machine learning and Generative Art
+- 🌱 I’m currently studying physics.
 - 💞️ I’m looking to collaborate on anything interesting
 - 📫 How to reach me payam.code@gmail.com
